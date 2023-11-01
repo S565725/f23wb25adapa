@@ -8,5 +8,5 @@ router.get('/', function(req, res, next) {
   res.render('yacht', { title: 'Search results Yacht' });
   
 });
-
+a(href='/yacht')
 module.exports = router;

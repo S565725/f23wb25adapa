@@ -8,5 +8,5 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
   
 });
-a(href='/yacht.js')
+
 module.exports = router;
